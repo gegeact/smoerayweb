@@ -9,12 +9,12 @@ body {
     margin-top: -10px;
 }
 .header {
-    width:80% ;
+    width:72% ;
     overflow: hidden;
     background:white;
     position: fixed;
     top: 0;
-    margin-left: 10%;
+    margin-left: 14%;
     margin-top: -10px;
 
 }
@@ -49,9 +49,10 @@ body {
 }
 
 .header .navigation li a {
-    color: #e4e6e8;
+    color:rgba(0,0,0,.5);
     text-decoration: none;
     padding-left: 10px;
+    font-size: 25px;
 }
 
 .header .navigation li a:hover {
